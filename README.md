@@ -1,8 +1,10 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://streak-stats.demolab.com?user=hengin-eer&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
+
+<h1 align="center">Hi 👋, I'm Hengineer🐦</h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hengin-eer.hengin-eer&left_color=cadetblue&right_color=mediumslateblue"  />
@@ -10,13 +12,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Hengineer🐦</h1>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hengin-eer&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+<p align="center"> <a width="100%" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hengin-eer&no-bg=true&margin-w=5&theme=dracula" alt="hengin-eer" /></a> </p>
 
 ###
 
