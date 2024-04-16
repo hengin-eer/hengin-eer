@@ -1,5 +1,5 @@
 <p align="center"> <a width="100%" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hengin-eer&no-bg=false&margin-w=4&theme=dracula" alt="hengin-eer" /></a> </p>
-<h2 align="center">Hi👋 I'm Tim daik, Student Programmer🐦</h2>
+<h1 align="center">Hi👋 I'm Tim daik, Student Programmer🐦</h1>
 
 ###
 
