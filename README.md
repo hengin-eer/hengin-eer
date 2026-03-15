@@ -1,4 +1,5 @@
 # Hi!  I'm timdaik
+[![thumbnail](./ogp.png)](https://hiro-to.moda)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hengin-eer.hengin-eer&right_color=darkturquoise"  />
 
